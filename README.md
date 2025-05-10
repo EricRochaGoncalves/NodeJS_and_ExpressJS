@@ -15,8 +15,6 @@ Cada parte foi separada em um repositório individual para facilitar a organiza�
 
 ## 📚 Repositórios de Estudo
 
-> ⚠️ **Os links abaixo serão atualizados conforme os repositórios forem criados.**
-
 - [![Rotas em Node Js](https://img.shields.io/badge/Rotas%20e%20Middlewares-grey?style=for-the-badge)](https://github.com/EricRochaGoncalves/Rotas-em-NodeJS/tree/main)
 
 - [![Formulários e CRUD](https://img.shields.io/badge/Formulários%20e%20CRUD-4CAF50?style=for-the-badge)](https://github.com/EricRochaGoncalves/Formulario_NodeJS_Express_MySQL/tree/main)
